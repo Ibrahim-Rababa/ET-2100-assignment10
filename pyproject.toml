@@ -1,0 +1,9 @@
+[project]
+name = "terminal-rpg"
+version = "0.1.0"
+description = "Beacon Below, a terminal adventure for ET 2100"
+requires-python = ">=3.10"
+dependencies = [
+    "colorama>=0.4.6,<0.5",
+    "tinydb>=4.8.2,<5",
+]
